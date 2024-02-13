@@ -29,3 +29,5 @@ String token = result.token
 
 'Menyimpan token ke GlobalVariable'
 GlobalVariable.TOKEN = token
+
+println(token)
